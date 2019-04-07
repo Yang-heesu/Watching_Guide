@@ -1,0 +1,135 @@
+    body {
+        font-family: Binggrae;
+        margin-top: 30px;
+        margin-bottom: 100px;
+    }
+
+    div{
+        margin-left: 350px;
+        margin-right: 100px;
+    }
+
+    #click{
+        font-family: Binggrae;
+        background-color: white;
+        border-style: none;
+        color:deepskyblue;
+    }
+
+    .is{
+         margin-left: 320px;
+          border: 1px solid white;
+     }
+
+    .button1{
+        font-family: Binggrae;
+        background-color: white;
+        border-style: none;
+    }
+
+    .button1:hover{
+        color: white;
+        background-image: url(../image/colorful.jpg);
+    }
+
+    .button2{
+        font-family: Binggrae;
+        color: white;
+        background-color: black;
+        border-style: none;
+    }
+
+    .button2:hover{
+        color: black;
+        background-image: url(../image/colorful2.jpg);
+    }
+
+    .button3{
+        font-family: Binggrae;
+        color: white;
+        background-color: black;
+        border: 1px dotted gray;
+    }
+
+    .button4{ 
+        color: purple;
+        text-decoration-line: none;
+    }
+
+    .button4:hover{ 
+        color: red;
+        text-decoration-line: none;
+    }
+
+    .im {
+        border-radius:1em;
+        height: 150px;
+        width: 140px;
+        background-color: white;
+        padding: 10px 10px 30px 10px;
+    }
+
+    .im:hover{
+        background-image: url(../image/colorful.jpg)
+    }
+
+    .imm{
+        border: 1px dotted orange;
+        height: 150px;
+        width: 140px;
+        border-radius: 10px;
+    }
+
+    .first{
+        background-image: url(../image/colorful.jpg);
+        color: white;
+        text-shadow: 0 0 2px orange;
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+
+    .second{
+        background-image: url(../image/colorful.jpg);
+        border-radius: 10px;
+        text-shadow: 0 0 1px orange;
+        padding-left: 30px;
+        padding-right: 30px;
+        color:white;
+    }
+
+    .third{
+        background-image: url(../image/colorful2.jpg);
+        color: black;
+        text-shadow: 0 0 2px black;
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+
+    .link1 {
+        color:lightslategray;
+        text-decoration-line: none;
+    }
+
+    .link1:hover{
+        color:orange;
+        text-decoration-line: none;
+    }
+
+    .link1:active{
+        color:yellowgreen;
+        text-decoration-line: none;
+    }
+
+    .td1{
+    border-style: dotted;
+    }
+
+    ul{
+        margin-left: 200px;
+    }
+    
+    Pre{
+        font-family: Binggrae;
+        text-align: left;
+        margin-left: 200px;
+    }
